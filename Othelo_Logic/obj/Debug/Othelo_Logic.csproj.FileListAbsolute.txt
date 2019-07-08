@@ -1,0 +1,6 @@
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Othelo_Logic\bin\Debug\Othelo_Logic.dll
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Othelo_Logic\bin\Debug\Othelo_Logic.pdb
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Othelo_Logic\obj\Debug\Othelo_Logic.csprojAssemblyReference.cache
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Othelo_Logic\obj\Debug\Othelo_Logic.csproj.CoreCompileInputs.cache
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Othelo_Logic\obj\Debug\Othelo_Logic.dll
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Othelo_Logic\obj\Debug\Othelo_Logic.pdb

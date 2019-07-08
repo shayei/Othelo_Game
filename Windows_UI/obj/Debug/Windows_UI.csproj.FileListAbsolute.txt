@@ -1,0 +1,11 @@
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Windows_UI\bin\Debug\Windows_UI.exe
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Windows_UI\bin\Debug\Windows_UI.pdb
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Windows_UI\bin\Debug\Othelo_Logic.dll
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Windows_UI\bin\Debug\Othelo_Logic.pdb
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Windows_UI\obj\Debug\Windows_UI.csprojAssemblyReference.cache
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Windows_UI\obj\Debug\Windows_UI.Properties.Resources.resources
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Windows_UI\obj\Debug\Windows_UI.csproj.GenerateResource.cache
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Windows_UI\obj\Debug\Windows_UI.csproj.CoreCompileInputs.cache
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Windows_UI\obj\Debug\Windows_UI.csproj.CopyComplete
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Windows_UI\obj\Debug\Windows_UI.exe
+C:\Users\Shay Eis\Desktop\B19 Ex05 Itamar 205681620 Shay 315960252\Windows_UI\obj\Debug\Windows_UI.pdb
